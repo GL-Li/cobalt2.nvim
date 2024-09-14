@@ -16,7 +16,7 @@ local cobalt2 = {
         a = { fg = p.grey, bg = p.darkest_green, gui = "bold" },
         b = { fg = p.yellow, bg = p.darker_blue },
         c = { fg = p.white, bg = p.cursor_line },
-        z = { fg = p.black, bg = p.yellow },
+        z = { fg = p.white, bg = p.dark_orange },
     },
     visual = { a = { fg = p.black, bg = p.dirty_pink, gui = "bold" } },
     replace = { a = { fg = p.black, bg = p.dark_pink, gui = "bold" } },
