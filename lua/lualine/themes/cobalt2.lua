@@ -13,7 +13,7 @@ local cobalt2 = {
         z = { fg = p.yellow, bg = p.cursor_line },
     },
     normal = {
-        a = { fg = p.white, bg = p.darkest_green, gui = "bold" },
+        a = { fg = p.grey, bg = p.darkest_green, gui = "bold" },
         b = { fg = p.yellow, bg = p.darker_blue },
         c = { fg = p.white, bg = p.cursor_line },
         z = { fg = p.black, bg = p.yellow },
